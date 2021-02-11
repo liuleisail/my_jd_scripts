@@ -3,7 +3,7 @@
  */
 //此处填写京东账号cookie。
 let CookieJDs = [
-  '',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
+  '',//账号一ck,pt_key=AAJgJOZZADDDl5lOjS-Y6GjzO7yifZKoOceMZ0EE5uvSTWsHf-Tg6eD1_KPohUyQ6i2614vsAXc;pt_pin=liuleisail;
   '',//账号二ck,例:pt_key=XXX;pt_pin=XXX;如有更多,依次类推
 ]
 // 判断环境变量里面是否有京东ck
